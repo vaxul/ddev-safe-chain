@@ -1,0 +1,6 @@
+name: safe-chain
+
+project_files:
+  - web-build/Dockerfile.safe-chain
+
+ddev_version_constraint: '>= v1.25.4'
